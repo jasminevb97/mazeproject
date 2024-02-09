@@ -1,7 +1,7 @@
 # Maze Project
 
 ## Project Description
-This project explores the implementation of a maze-solving algorithm using a graph model. Each vertex in the graph represents a state, a combination for wo entities, Lucky and Rocket. The goal is to nagivate these entities through the maze to reach a specific goal node under certain conditions.
+This project explores the implementation of a maze-solving algorithm using a graph model. Each vertex in the graph represents a state, a combination for wo entities, Lucky and Rocket. The goal is to nagivate these entities through the maze to reach a specific goal node under certain conditions. This project is done in python programming language.
 
 ## Key Features
 - **Graph Model**: Utilizes the vertices to represent the states of Lucky and Rocket's positions, with directed edges incidcating possible transitions.
