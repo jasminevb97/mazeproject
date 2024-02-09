@@ -11,5 +11,5 @@ This project explores the implementation of a maze-solving algorithm using a gra
 
 ## Running the Project
 ```bash
-python mazeproject.py <file name>
+python mazeproject.py <input file name>
 ```
